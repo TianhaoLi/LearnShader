@@ -279,11 +279,11 @@
  <Reference Include="UnityEditor.UWP.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f3/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="Substance.Editor">
- <HintPath>C:/Users/tianhaoli/LearnShader/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
- </Reference>
  <Reference Include="Substance.Game">
  <HintPath>C:/Users/tianhaoli/LearnShader/Assets/Allegorithmic/Plugins/Substance.Game.dll</HintPath>
+ </Reference>
+ <Reference Include="Substance.Editor">
+ <HintPath>C:/Users/tianhaoli/LearnShader/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
  </Reference>
  <Reference Include="SourceUnityLib">
  <HintPath>C:/Users/tianhaoli/LearnShader/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>

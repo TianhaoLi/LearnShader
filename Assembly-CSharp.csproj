@@ -67,6 +67,7 @@
      <None Include="Assets\Chapter6\0_DiffuseVertexLevel.shader" />
      <None Include="Assets\Chapter10\0_Reflection.shader" />
      <None Include="Assets\Chapter10\4_GlassRefraction.shader" />
+     <None Include="Assets\Chapter11\3_BillBoard.shader" />
      <None Include="Assets\Allegorithmic\Plugins\EULA.txt" />
      <None Include="Assets\Chapter10\1_Refraction.shader" />
      <None Include="Assets\Chapter7\1_NormalMapTangentSpace.shader" />
@@ -78,14 +79,17 @@
      <None Include="Assets\Chapter7\4_Mask Texture.shader" />
      <None Include="Assets\Chapter6\4_SpcularPixelLevel.shader" />
      <None Include="Assets\Chapter10\5_ProceduralTextrue.shader" />
+     <None Include="Assets\Chapter11\0_ImageSequenceAnimation.shader" />
      <None Include="Assets\Chapter9\3_AlphaTestWithShadow.shader" />
      <None Include="Assets\Chapter6\5_BlinnPhong.shader" />
      <None Include="Assets\Chapter7\2_NormalMapWorldSpace.shader" />
      <None Include="Assets\Allegorithmic\Plugins\engine_build_info.txt" />
+     <None Include="Assets\Chapter11\1_ScrollingBackground.shader" />
      <None Include="Assets\Chapter9\2_AttenuationAndShadowUseBuildInFunctionMat.shader" />
      <None Include="Assets\Chapter5\1_FlaseColor.shader" />
      <None Include="Assets\Chapter5\0_SimpleShader.shader" />
      <None Include="Assets\Chapter8\3_AlphaBlendBothSided.shader" />
+     <None Include="Assets\Chapter11\2_Water.shader" />
      <None Include="Assets\Chapter6\1_DiffusePixelLevel.shader" />
      <None Include="Assets\Chapter7\0_SingleTexture.shader" />
      <None Include="Assets\Chapter6\3_SpcularVertexLevel.shader" />
