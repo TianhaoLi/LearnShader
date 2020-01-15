@@ -56,6 +56,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Chapter10\ProceduralTextureGeneration.cs" />
+     <Compile Include="Assets\Chapter12\0亮度,饱和,对比度\BrightnessSaturationAndContrast.cs" />
+     <Compile Include="Assets\Chapter12\1EdgeDetection\EdgeDetection.cs" />
+     <Compile Include="Assets\Chapter12\2GaussianBlur\GaussianBlur.cs" />
+     <Compile Include="Assets\Chapter12\3Bloom\Bloom.cs" />
+     <Compile Include="Assets\Chapter12\PostEffectsBase.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyAttribute.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyExample.cs" />
      <None Include="Assets\Chapter8\1_Alpha Blend.shader" />
@@ -66,16 +71,20 @@
      <None Include="Assets\Chapter10\3_Mirror.shader" />
      <None Include="Assets\Chapter6\0_DiffuseVertexLevel.shader" />
      <None Include="Assets\Chapter10\0_Reflection.shader" />
+     <None Include="Assets\Chapter12\2GaussianBlur\2_GaussianBlur.shader" />
      <None Include="Assets\Chapter10\4_GlassRefraction.shader" />
      <None Include="Assets\Chapter11\3_BillBoard.shader" />
      <None Include="Assets\Allegorithmic\Plugins\EULA.txt" />
      <None Include="Assets\Chapter10\1_Refraction.shader" />
      <None Include="Assets\Chapter7\1_NormalMapTangentSpace.shader" />
+     <None Include="Assets\Chapter12\3Bloom\3_Bloom.shader" />
      <None Include="Assets\Common\BumpedDiffuse.shader" />
+     <None Include="Assets\Chapter12\0亮度,饱和,对比度\0_BrightnessSaturationAndContrast.shader" />
      <None Include="Assets\Chapter9\0_ForwardRendering.shader" />
      <None Include="Assets\Chapter7\3_Ramp Texture.shader" />
      <None Include="Assets\Chapter9\1_Shadow.shader" />
      <None Include="Assets\Chapter6\2_DiffuseHalfLambert.shader" />
+     <None Include="Assets\Chapter12\1EdgeDetection\1_EdgeDetection.shader" />
      <None Include="Assets\Chapter7\4_Mask Texture.shader" />
      <None Include="Assets\Chapter6\4_SpcularPixelLevel.shader" />
      <None Include="Assets\Chapter10\5_ProceduralTextrue.shader" />
