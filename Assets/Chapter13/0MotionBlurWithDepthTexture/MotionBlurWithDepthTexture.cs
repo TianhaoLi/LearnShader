@@ -48,7 +48,7 @@ public class MotionBlurWithDepthTexture : PostEffectsBase {
             Matrix4x4 currentViewProjectionMatrix = camera.projectionMatrix * camera.worldToCameraMatrix;//摄像机 投影矩阵 * 摄像机视角矩阵
             Matrix4x4 currentViewProjectionInverseMatrix = currentViewProjectionMatrix.inverse; // 相乘后 取 逆矩阵
             material.SetMatrix("_CurrentViewProjectionInverseMatrix", currentViewProjectionInverseMatrix);// 把逆矩阵存储在参数 _CurrentViewProjectionInverseMatrix 以便下一帧传递给_PreViousViewProjectionMatrix
-            previousViewProjectionMatrix = currentViewProjectionMatrix;
+            previousViewProjectionMatrix = currentViewProjectionMatrix;//把当前帧作为下一帧的上一帧
 
             Graphics.Blit(src, dest, material);//把逆矩阵传递给材质
 

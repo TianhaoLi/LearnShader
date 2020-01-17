@@ -63,7 +63,9 @@
      <Compile Include="Assets\Chapter12\4MotionBlur\MotionBlur.cs" />
      <Compile Include="Assets\Chapter12\4MotionBlur\Translating.cs" />
      <Compile Include="Assets\Chapter12\PostEffectsBase.cs" />
-     <Compile Include="Assets\Chapter13\MotionBlurWithDepthTexture\MotionBlurWithDepthTexture.cs" />
+     <Compile Include="Assets\Chapter13\0MotionBlurWithDepthTexture\MotionBlurWithDepthTexture.cs" />
+     <Compile Include="Assets\Chapter13\1FogWithDepthTexture\FogWithDepthTexture.cs" />
+     <Compile Include="Assets\Chapter13\2EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyAttribute.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyExample.cs" />
      <None Include="Assets\Chapter8\1_Alpha Blend.shader" />
@@ -73,7 +75,7 @@
      <None Include="Assets\Chapter8\2_AlphaBlendZwrite.shader" />
      <None Include="Assets\Chapter10\3_Mirror.shader" />
      <None Include="Assets\Chapter6\0_DiffuseVertexLevel.shader" />
-     <None Include="Assets\Chapter13\MotionBlurWithDepthTexture\MotionBlurWithDepthTexture.shader" />
+     <None Include="Assets\Chapter13\0MotionBlurWithDepthTexture\MotionBlurWithDepthTexture.shader" />
      <None Include="Assets\Chapter10\0_Reflection.shader" />
      <None Include="Assets\Chapter12\2GaussianBlur\2_GaussianBlur.shader" />
      <None Include="Assets\Chapter10\4_GlassRefraction.shader" />
@@ -86,11 +88,13 @@
      <None Include="Assets\Chapter12\0亮度,饱和,对比度\0_BrightnessSaturationAndContrast.shader" />
      <None Include="Assets\Chapter9\0_ForwardRendering.shader" />
      <None Include="Assets\Chapter7\3_Ramp Texture.shader" />
+     <None Include="Assets\Chapter13\1FogWithDepthTexture\FogWithDepthTexture.shader" />
      <None Include="Assets\Chapter12\4MotionBlur\4_MotionBlurShader.shader" />
      <None Include="Assets\Chapter9\1_Shadow.shader" />
      <None Include="Assets\Chapter6\2_DiffuseHalfLambert.shader" />
      <None Include="Assets\Chapter12\1EdgeDetection\1_EdgeDetection.shader" />
      <None Include="Assets\Chapter7\4_Mask Texture.shader" />
+     <None Include="Assets\Chapter13\2EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.shader" />
      <None Include="Assets\Chapter6\4_SpcularPixelLevel.shader" />
      <None Include="Assets\Chapter10\5_ProceduralTextrue.shader" />
      <None Include="Assets\Chapter11\0_ImageSequenceAnimation.shader" />
