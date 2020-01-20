@@ -66,6 +66,7 @@
      <Compile Include="Assets\Chapter13\0MotionBlurWithDepthTexture\MotionBlurWithDepthTexture.cs" />
      <Compile Include="Assets\Chapter13\1FogWithDepthTexture\FogWithDepthTexture.cs" />
      <Compile Include="Assets\Chapter13\2EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.cs" />
+     <Compile Include="Assets\Chapter15\Dissolve\BurnHelper.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyAttribute.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyExample.cs" />
      <None Include="Assets\Chapter8\1_Alpha Blend.shader" />
@@ -87,6 +88,7 @@
      <None Include="Assets\Common\BumpedDiffuse.shader" />
      <None Include="Assets\Chapter12\0亮度,饱和,对比度\0_BrightnessSaturationAndContrast.shader" />
      <None Include="Assets\Chapter9\0_ForwardRendering.shader" />
+     <None Include="Assets\Chapter15\Dissolve\Dissolve.shader" />
      <None Include="Assets\Chapter7\3_Ramp Texture.shader" />
      <None Include="Assets\Chapter13\1FogWithDepthTexture\FogWithDepthTexture.shader" />
      <None Include="Assets\Chapter12\4MotionBlur\4_MotionBlurShader.shader" />
@@ -95,9 +97,11 @@
      <None Include="Assets\Chapter12\1EdgeDetection\1_EdgeDetection.shader" />
      <None Include="Assets\Chapter7\4_Mask Texture.shader" />
      <None Include="Assets\Chapter13\2EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.shader" />
+     <None Include="Assets\Chapter14\Hatching.shader" />
      <None Include="Assets\Chapter6\4_SpcularPixelLevel.shader" />
      <None Include="Assets\Chapter10\5_ProceduralTextrue.shader" />
      <None Include="Assets\Chapter11\0_ImageSequenceAnimation.shader" />
+     <None Include="Assets\Chapter14\ToonShading.shader" />
      <None Include="Assets\Chapter9\3_AlphaTestWithShadow.shader" />
      <None Include="Assets\Chapter6\5_BlinnPhong.shader" />
      <None Include="Assets\Chapter7\2_NormalMapWorldSpace.shader" />
