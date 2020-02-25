@@ -67,6 +67,7 @@
      <Compile Include="Assets\Chapter13\1FogWithDepthTexture\FogWithDepthTexture.cs" />
      <Compile Include="Assets\Chapter13\2EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.cs" />
      <Compile Include="Assets\Chapter15\Dissolve\BurnHelper.cs" />
+     <Compile Include="Assets\Chapter15\FogWithNoise\FogWithNoise.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyAttribute.cs" />
      <Compile Include="Assets\SetProperty\Scripts\SetPropertyExample.cs" />
      <None Include="Assets\Chapter8\1_Alpha Blend.shader" />
@@ -86,6 +87,7 @@
      <None Include="Assets\Chapter7\1_NormalMapTangentSpace.shader" />
      <None Include="Assets\Chapter12\3Bloom\3_Bloom.shader" />
      <None Include="Assets\Common\BumpedDiffuse.shader" />
+     <None Include="Assets\Chapter15\FogWithNoise\FogWithNoise.shader" />
      <None Include="Assets\Chapter12\0亮度,饱和,对比度\0_BrightnessSaturationAndContrast.shader" />
      <None Include="Assets\Chapter9\0_ForwardRendering.shader" />
      <None Include="Assets\Chapter15\Dissolve\Dissolve.shader" />
@@ -95,6 +97,7 @@
      <None Include="Assets\Chapter9\1_Shadow.shader" />
      <None Include="Assets\Chapter6\2_DiffuseHalfLambert.shader" />
      <None Include="Assets\Chapter12\1EdgeDetection\1_EdgeDetection.shader" />
+     <None Include="Assets\Chapter15\WateWave\WaterWave.shader" />
      <None Include="Assets\Chapter7\4_Mask Texture.shader" />
      <None Include="Assets\Chapter13\2EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.shader" />
      <None Include="Assets\Chapter14\Hatching.shader" />
