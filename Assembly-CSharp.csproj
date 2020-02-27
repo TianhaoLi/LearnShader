@@ -103,6 +103,7 @@
      <None Include="Assets\Chapter14\Hatching.shader" />
      <None Include="Assets\Chapter6\4_SpcularPixelLevel.shader" />
      <None Include="Assets\Chapter10\5_ProceduralTextrue.shader" />
+     <None Include="Assets\Chapter17\BumpedDiffuse.shader" />
      <None Include="Assets\Chapter11\0_ImageSequenceAnimation.shader" />
      <None Include="Assets\Chapter14\ToonShading.shader" />
      <None Include="Assets\Chapter9\3_AlphaTestWithShadow.shader" />
